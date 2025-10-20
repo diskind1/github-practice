@@ -1,2 +1,1 @@
-# github-practice
-demo Github project
+# GitHub Practice
